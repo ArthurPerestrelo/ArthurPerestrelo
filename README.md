@@ -31,6 +31,7 @@ Tenho conhecimento em linguagens como Java, C, Python, JavaScript, SQL
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPerestrelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPerestrelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://github-readme-stats.vercel.app/api?username=ArthurPerestrelo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800
+)" 
   />
 </p>
