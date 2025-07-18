@@ -1,16 +1,36 @@
-## Hi there 👋
+ 👨🏻‍💻 Arthur Perestrelo
 
-<!--
-**ArthurPerestrelo/ArthurPerestrelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação contínua | Ciência da Computação`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Arthur Perestrelo, sou do estado de São Paulo e sou formado em Ciência da Computação pela Fundação Educacional Inaciana Padre Sabóia de Medeiros (FEI). Estou sempre explorando outras tecnologias e linguagens para ampliar meus horizontes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho conhecimento em linguagens como Python, C, JavaScript e TypeScript.
+
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="30px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="30px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="30px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="C" alt="C" width="30px" style="padding-right: 10px;"  />
+          
+</p>
+
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPerestrelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
