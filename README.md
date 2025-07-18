@@ -23,14 +23,3 @@ Tenho conhecimento em linguagens como Python, C, JavaScript, Java e SQL. Aqui no
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="30px" style="padding-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="30px" style="padding-right: 10px;" />
 </p>
-
----
-
-### 📊 Estatísticas
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPerestrelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
