@@ -4,7 +4,7 @@ Desenvolvedor em formação contínua | Ciência da Computação`**
 
 Olá! Me chamo Arthur Perestrelo, sou do estado de São Paulo e sou formado em Ciência da Computação pela Fundação Educacional Inaciana Padre Sabóia de Medeiros (FEI). Estou sempre explorando outras tecnologias e linguagens para ampliar meus horizontes.
 
-Tenho conhecimento em linguagens como Python, C, JavaScript e TypeScript.
+Tenho conhecimento em linguagens como Java, C, Python, JavaScript, SQL
 
 
 ---
